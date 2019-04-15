@@ -3,6 +3,7 @@ import { Button, Icon } from 'semantic-ui-react'
 
 const ButtonExampleAnimated = () => (
   <div>
+  111
     <Button animated>
       <Button.Content visible>Next</Button.Content>
       <Button.Content hidden>
